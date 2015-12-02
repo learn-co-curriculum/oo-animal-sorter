@@ -16,3 +16,5 @@ Land animals should contain the strings aardvark, cat, and elephant. Sea animals
 Now that setup is out of the way, run the test suite with the `rspec` command.
 
 Your program can have a pre-existing list of animal classifications.
+
+<a href='https://learn.co/lessons/oo-animal-sorter' data-visibility='hidden'>View this lesson on Learn.co</a>
