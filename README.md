@@ -17,4 +17,4 @@ Now that setup is out of the way, run the test suite with the `rspec` command.
 
 Your program can have a pre-existing list of animal classifications.
 
-<a href='https://learn.co/lessons/oo-animal-sorter' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/oo-animal-sorter' title='Animal Sorter'>Animal Sorter</a> on Learn.co and start learning to code for free.</p>
